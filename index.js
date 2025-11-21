@@ -10,3 +10,4 @@ if (banana=cheese) {
 const average = (num1, num2) => (num1 + num2) / 2;
 let result = average(90.5 ,5.5);
 console.log(result);
+
